@@ -90,3 +90,5 @@ Here are some screenshots showcasing VoteChain in action:
 7. Results 
 ![Results](image-6.png)
 
+## LICENSE
+[MIT License](LICENSE)
