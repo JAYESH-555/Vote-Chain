@@ -62,3 +62,31 @@ VoteChain is a blockchain-powered voting platform designed to:
 - Ethereum Blockchain (Ganache) 🖥️: Local network for testing and deployment.
 
 - MetaMask 🌐: Simple, secure connection to the blockchain network.
+
+## 📸 Screenshots
+
+Here are some screenshots showcasing VoteChain in action:
+
+1. Admin Panel
+
+![Admin Panel](image.png)
+
+2. Voter's Panel
+
+![Voter's Panel](image-1.png)
+
+3. Admin adds candidates
+![Admin adds candidates](image-2.png)
+
+4. Voter Registration
+![Voter Registration](image-3.png)
+
+5. Admin Verify Voters
+![Admin Verify Voters](image-4.png)
+
+6. Voting Phase
+![Voting Phase](image-5.png)
+
+7. Results 
+![Results](image-6.png)
+
